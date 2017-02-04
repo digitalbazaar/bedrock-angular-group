@@ -1,0 +1,16 @@
+{
+  "name": "bedrock-angular-group",
+  "version": "1.0.0-0",
+  "main": [
+    "./main.js"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "bedrock-angular": "^2.0.0",
+    "bedrock-angular-resource": "^2.0.0",
+    "lodash": "^4.16.4"
+  }
+}
